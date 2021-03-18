@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://push.azkashan.ir/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<sitemap>
+		<loc>https://push.azkashan.ir/post-sitemap.xml</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://push.azkashan.ir/page-sitemap.xml</loc>
+		<lastmod>2021-03-17T21:23:41+00:00</lastmod>
+	</sitemap>
+</sitemapindex>
