@@ -1,74 +1,74 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="http://push.azkashan.ir/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://push.azkashan.ir/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>http://push.azkashan.ir/</loc>
+		<loc>https://push.azkashan.ir/</loc>
 		<lastmod>2021-05-24T13:33:38+00:00</lastmod>
 		<image:image>
-			<image:loc>http://push.azkashan.ir/wp-content/uploads/lebas-kashan.webp</image:loc>
+			<image:loc>https://push.azkashan.ir/wp-content/uploads/lebas-kashan.webp</image:loc>
 			<image:caption><![CDATA[لباس کاشان]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>http://push.azkashan.ir/wp-content/uploads/lebas-kashan.webp</image:loc>
+			<image:loc>https://push.azkashan.ir/wp-content/uploads/lebas-kashan.webp</image:loc>
 			<image:caption><![CDATA[لباس کاشان]]></image:caption>
 		</image:image>
 	</url>
 	<url>
-		<loc>http://push.azkashan.ir/sellers/</loc>
+		<loc>https://push.azkashan.ir/sellers/</loc>
 		<lastmod>2021-05-24T19:32:04+00:00</lastmod>
 		<image:image>
-			<image:loc>http://push.azkashan.ir/wp-content/uploads/pushak-kashan.webp</image:loc>
+			<image:loc>https://push.azkashan.ir/wp-content/uploads/pushak-kashan.webp</image:loc>
 			<image:caption><![CDATA[پوشاک کاشان]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>http://push.azkashan.ir/wp-content/uploads/pushak-kashan.webp</image:loc>
+			<image:loc>https://push.azkashan.ir/wp-content/uploads/pushak-kashan.webp</image:loc>
 			<image:caption><![CDATA[پوشاک کاشان]]></image:caption>
 		</image:image>
 	</url>
 	<url>
-		<loc>http://push.azkashan.ir/lebas-zananeh/</loc>
+		<loc>https://push.azkashan.ir/lebas-zananeh/</loc>
 		<lastmod>2021-05-25T04:09:37+00:00</lastmod>
 		<image:image>
-			<image:loc>http://push.azkashan.ir/wp-content/uploads/lebas-zananeh-kashan.webp</image:loc>
+			<image:loc>https://push.azkashan.ir/wp-content/uploads/lebas-zananeh-kashan.webp</image:loc>
 			<image:caption><![CDATA[لباس زنانه کاشان]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>http://push.azkashan.ir/wp-content/uploads/lebas-zananeh-kashan.webp</image:loc>
+			<image:loc>https://push.azkashan.ir/wp-content/uploads/lebas-zananeh-kashan.webp</image:loc>
 			<image:caption><![CDATA[لباس زنانه کاشان]]></image:caption>
 		</image:image>
 	</url>
 	<url>
-		<loc>http://push.azkashan.ir/lebas-mardaneh/</loc>
+		<loc>https://push.azkashan.ir/lebas-mardaneh/</loc>
 		<lastmod>2021-05-25T04:09:41+00:00</lastmod>
 		<image:image>
-			<image:loc>http://push.azkashan.ir/wp-content/uploads/lebas-mardaneh-kashan.webp</image:loc>
+			<image:loc>https://push.azkashan.ir/wp-content/uploads/lebas-mardaneh-kashan.webp</image:loc>
 			<image:caption><![CDATA[لباس مردانه کاشان]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>http://push.azkashan.ir/wp-content/uploads/lebas-mardaneh-kashan.webp</image:loc>
+			<image:loc>https://push.azkashan.ir/wp-content/uploads/lebas-mardaneh-kashan.webp</image:loc>
 			<image:caption><![CDATA[لباس مردانه کاشان]]></image:caption>
 		</image:image>
 	</url>
 	<url>
-		<loc>http://push.azkashan.ir/lebas-bacheganeh/</loc>
+		<loc>https://push.azkashan.ir/lebas-bacheganeh/</loc>
 		<lastmod>2021-05-25T04:09:45+00:00</lastmod>
 		<image:image>
-			<image:loc>http://push.azkashan.ir/wp-content/uploads/lebas-bacheganeh-kashan.webp</image:loc>
+			<image:loc>https://push.azkashan.ir/wp-content/uploads/lebas-bacheganeh-kashan.webp</image:loc>
 			<image:caption><![CDATA[لباس بچه گانه کاشان]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>http://push.azkashan.ir/wp-content/uploads/lebas-bacheganeh-kashan.webp</image:loc>
+			<image:loc>https://push.azkashan.ir/wp-content/uploads/lebas-bacheganeh-kashan.webp</image:loc>
 			<image:caption><![CDATA[لباس بچه گانه کاشان]]></image:caption>
 		</image:image>
 	</url>
 	<url>
-		<loc>http://push.azkashan.ir/kif-kafsh/</loc>
+		<loc>https://push.azkashan.ir/kif-kafsh/</loc>
 		<lastmod>2021-05-25T04:09:51+00:00</lastmod>
 		<image:image>
-			<image:loc>http://push.azkashan.ir/wp-content/uploads/kif-kafsh-kashan.webp</image:loc>
+			<image:loc>https://push.azkashan.ir/wp-content/uploads/kif-kafsh-kashan.webp</image:loc>
 			<image:caption><![CDATA[کیف و کفش کاشان]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>http://push.azkashan.ir/wp-content/uploads/kif-kafsh-kashan.webp</image:loc>
+			<image:loc>https://push.azkashan.ir/wp-content/uploads/kif-kafsh-kashan.webp</image:loc>
 			<image:caption><![CDATA[کیف و کفش کاشان]]></image:caption>
 		</image:image>
 	</url>
