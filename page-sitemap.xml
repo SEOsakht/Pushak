@@ -25,8 +25,32 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>https://push.azkashan.ir/lebas-zananeh/</loc>
+		<lastmod>2021-05-26T06:24:30+00:00</lastmod>
+		<image:image>
+			<image:loc>https://push.azkashan.ir/wp-content/uploads/lebas-zananeh-kashan.webp</image:loc>
+			<image:caption><![CDATA[لباس زنانه کاشان]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://push.azkashan.ir/wp-content/uploads/lebas-zananeh-kashan.webp</image:loc>
+			<image:caption><![CDATA[لباس زنانه کاشان]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://push.azkashan.ir/lebas-mardaneh/</loc>
+		<lastmod>2021-05-26T06:25:35+00:00</lastmod>
+		<image:image>
+			<image:loc>https://push.azkashan.ir/wp-content/uploads/lebas-mardaneh-kashan.webp</image:loc>
+			<image:caption><![CDATA[لباس مردانه کاشان]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://push.azkashan.ir/wp-content/uploads/lebas-mardaneh-kashan.webp</image:loc>
+			<image:caption><![CDATA[لباس مردانه کاشان]]></image:caption>
+		</image:image>
+	</url>
+	<url>
 		<loc>https://push.azkashan.ir/kif-kafsh/</loc>
-		<lastmod>2021-05-26T03:07:51+00:00</lastmod>
+		<lastmod>2021-05-26T06:26:07+00:00</lastmod>
 		<image:image>
 			<image:loc>https://push.azkashan.ir/wp-content/uploads/kif-kafsh-kashan.webp</image:loc>
 			<image:caption><![CDATA[کیف و کفش کاشان]]></image:caption>
@@ -38,7 +62,7 @@
 	</url>
 	<url>
 		<loc>https://push.azkashan.ir/lebas-bacheganeh/</loc>
-		<lastmod>2021-05-26T03:08:02+00:00</lastmod>
+		<lastmod>2021-05-26T06:26:43+00:00</lastmod>
 		<image:image>
 			<image:loc>https://push.azkashan.ir/wp-content/uploads/lebas-bacheganeh-kashan.webp</image:loc>
 			<image:caption><![CDATA[لباس بچه گانه کاشان]]></image:caption>
@@ -46,30 +70,6 @@
 		<image:image>
 			<image:loc>https://push.azkashan.ir/wp-content/uploads/lebas-bacheganeh-kashan.webp</image:loc>
 			<image:caption><![CDATA[لباس بچه گانه کاشان]]></image:caption>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://push.azkashan.ir/lebas-mardaneh/</loc>
-		<lastmod>2021-05-26T03:08:05+00:00</lastmod>
-		<image:image>
-			<image:loc>https://push.azkashan.ir/wp-content/uploads/lebas-mardaneh-kashan.webp</image:loc>
-			<image:caption><![CDATA[لباس مردانه کاشان]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://push.azkashan.ir/wp-content/uploads/lebas-mardaneh-kashan.webp</image:loc>
-			<image:caption><![CDATA[لباس مردانه کاشان]]></image:caption>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://push.azkashan.ir/lebas-zananeh/</loc>
-		<lastmod>2021-05-26T03:08:11+00:00</lastmod>
-		<image:image>
-			<image:loc>https://push.azkashan.ir/wp-content/uploads/lebas-zananeh-kashan.webp</image:loc>
-			<image:caption><![CDATA[لباس زنانه کاشان]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://push.azkashan.ir/wp-content/uploads/lebas-zananeh-kashan.webp</image:loc>
-			<image:caption><![CDATA[لباس زنانه کاشان]]></image:caption>
 		</image:image>
 	</url>
 </urlset>
