@@ -13,18 +13,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://push.azkashan.ir/sellers/</loc>
-		<lastmod>2021-05-24T19:32:04+00:00</lastmod>
-		<image:image>
-			<image:loc>https://push.azkashan.ir/wp-content/uploads/pushak-kashan.webp</image:loc>
-			<image:caption><![CDATA[پوشاک کاشان]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://push.azkashan.ir/wp-content/uploads/pushak-kashan.webp</image:loc>
-			<image:caption><![CDATA[پوشاک کاشان]]></image:caption>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://push.azkashan.ir/lebas-mardaneh/</loc>
 		<lastmod>2021-06-03T15:16:33+00:00</lastmod>
 		<image:image>
@@ -329,8 +317,20 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>https://push.azkashan.ir/sellers/</loc>
+		<lastmod>2021-06-05T07:34:01+00:00</lastmod>
+		<image:image>
+			<image:loc>https://push.azkashan.ir/wp-content/uploads/pushak-kashan.webp</image:loc>
+			<image:caption><![CDATA[پوشاک کاشان]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://push.azkashan.ir/wp-content/uploads/pushak-kashan.webp</image:loc>
+			<image:caption><![CDATA[پوشاک کاشان]]></image:caption>
+		</image:image>
+	</url>
+	<url>
 		<loc>https://push.azkashan.ir/lebas-zananeh/</loc>
-		<lastmod>2021-06-03T17:44:53+00:00</lastmod>
+		<lastmod>2021-06-05T11:41:56+00:00</lastmod>
 		<image:image>
 			<image:loc>https://push.azkashan.ir/wp-content/uploads/lebas-zananeh-kashan.webp</image:loc>
 			<image:caption><![CDATA[لباس زنانه کاشان]]></image:caption>
@@ -338,6 +338,38 @@
 		<image:image>
 			<image:loc>https://push.azkashan.ir/wp-content/uploads/lebas-zananeh-kashan.webp</image:loc>
 			<image:caption><![CDATA[لباس زنانه کاشان]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://push.azkashan.ir/wp-content/uploads/kashan-lebas-zananeh-03151609.webp</image:loc>
+			<image:caption><![CDATA[لباس تونیک زنانه کاشان]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://push.azkashan.ir/wp-content/uploads/kashan-lebas-zananeh-03151353.webp</image:loc>
+			<image:caption><![CDATA[مانتو زنانه کاشان]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://push.azkashan.ir/wp-content/uploads/kashan-lebas-zananeh-03151231.webp</image:loc>
+			<image:caption><![CDATA[ست هاوایی زنانه کاشان]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://push.azkashan.ir/wp-content/uploads/kashan-lebas-zananeh-03151227.webp</image:loc>
+			<image:caption><![CDATA[تاپ زنانه کاشان]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://push.azkashan.ir/wp-content/uploads/kashan-lebas-zananeh-03151223.webp</image:loc>
+			<image:caption><![CDATA[شال و روسری کاشان]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://push.azkashan.ir/wp-content/uploads/kashan-lebas-zananeh-03151219.webp</image:loc>
+			<image:caption><![CDATA[تاپ زنانه کاشان]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://push.azkashan.ir/wp-content/uploads/kashan-lebas-zananeh-03151215.webp</image:loc>
+			<image:caption><![CDATA[شلوار زنانه کاشان]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://push.azkashan.ir/wp-content/uploads/kashan-lebas-zananeh-03151211.webp</image:loc>
+			<image:caption><![CDATA[شال و روسری کاشان]]></image:caption>
 		</image:image>
 		<image:image>
 			<image:loc>https://push.azkashan.ir/wp-content/uploads/kashan-lebas-zananeh-03132212.webp</image:loc>
