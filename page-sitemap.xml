@@ -357,30 +357,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://push.azkashan.ir/lebas-zananeh/</loc>
-		<lastmod>2021-06-10T12:37:39+00:00</lastmod>
-		<image:image>
-			<image:loc>https://push.azkashan.ir/wp-content/uploads/lebas-zananeh-kashan.webp</image:loc>
-			<image:caption><![CDATA[لباس زنانه کاشان]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://push.azkashan.ir/wp-content/uploads/lebas-zananeh-kashan.webp</image:loc>
-			<image:caption><![CDATA[لباس زنانه کاشان]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://push.azkashan.ir/wp-content/uploads/kashan-lebas-zananeh-03132204.webp</image:loc>
-			<image:caption><![CDATA[لباس مجلسی زنانه کاشان - تونیک مزونی]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://push.azkashan.ir/wp-content/uploads/kashan-roosari-03081615.webp</image:loc>
-			<image:caption><![CDATA[شال و روسری کاشان - روسری نخی]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://push.azkashan.ir/wp-content/uploads/kashan-lebas-zananeh-03151219.webp</image:loc>
-			<image:caption><![CDATA[لباس راحتی زنانه کاشان - تاپ نخی]]></image:caption>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://push.azkashan.ir/lebas-mardaneh/</loc>
 		<lastmod>2021-06-11T14:41:31+00:00</lastmod>
 		<image:image>
@@ -606,6 +582,30 @@
 		<image:image>
 			<image:loc>https://push.azkashan.ir/wp-content/uploads/kashan-lebas-bacheganeh-03091138.webp</image:loc>
 			<image:caption><![CDATA[لباس بچه گانه کاشان - تیشرت شلوارک]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://push.azkashan.ir/lebas-zananeh/</loc>
+		<lastmod>2021-06-11T15:22:40+00:00</lastmod>
+		<image:image>
+			<image:loc>https://push.azkashan.ir/wp-content/uploads/lebas-zananeh-kashan.webp</image:loc>
+			<image:caption><![CDATA[لباس زنانه کاشان]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://push.azkashan.ir/wp-content/uploads/lebas-zananeh-kashan.webp</image:loc>
+			<image:caption><![CDATA[لباس زنانه کاشان]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://push.azkashan.ir/wp-content/uploads/kashan-lebas-zananeh-03132204.webp</image:loc>
+			<image:caption><![CDATA[لباس مجلسی زنانه کاشان - تونیک مزونی]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://push.azkashan.ir/wp-content/uploads/kashan-roosari-03081615.webp</image:loc>
+			<image:caption><![CDATA[شال و روسری کاشان - روسری نخی]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://push.azkashan.ir/wp-content/uploads/kashan-lebas-zananeh-03151219.webp</image:loc>
+			<image:caption><![CDATA[لباس راحتی زنانه کاشان - تاپ نخی]]></image:caption>
 		</image:image>
 	</url>
 </urlset>
