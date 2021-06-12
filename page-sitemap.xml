@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://push.azkashan.ir/</loc>
-		<lastmod>2021-05-24T13:33:38+00:00</lastmod>
+		<lastmod>2021-06-12T07:44:32+00:00</lastmod>
 		<image:image>
 			<image:loc>https://push.azkashan.ir/wp-content/uploads/lebas-kashan.webp</image:loc>
 			<image:caption><![CDATA[لباس کاشان]]></image:caption>
@@ -22,162 +22,6 @@
 		<image:image>
 			<image:loc>https://push.azkashan.ir/wp-content/uploads/pushak-kashan.webp</image:loc>
 			<image:caption><![CDATA[پوشاک کاشان]]></image:caption>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://push.azkashan.ir/kif-kafsh/</loc>
-		<lastmod>2021-06-07T19:25:59+00:00</lastmod>
-		<image:image>
-			<image:loc>https://push.azkashan.ir/wp-content/uploads/kif-kafsh-kashan.webp</image:loc>
-			<image:caption><![CDATA[کیف و کفش کاشان]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://push.azkashan.ir/wp-content/uploads/kif-kafsh-kashan.webp</image:loc>
-			<image:caption><![CDATA[کیف و کفش کاشان]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://push.azkashan.ir/wp-content/uploads/kashan-kif-kafsh-03172351.webp</image:loc>
-			<image:caption><![CDATA[کیف زنانه دستباف کاشان]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://push.azkashan.ir/wp-content/uploads/kashan-kif-kafsh-03172345.webp</image:loc>
-			<image:caption><![CDATA[کفش گیوه کاشان]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://push.azkashan.ir/wp-content/uploads/kashan-kif-kafsh-03172338.webp</image:loc>
-			<image:caption><![CDATA[کیف زنانه کاشان]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://push.azkashan.ir/wp-content/uploads/kashan-kif-kafsh-03172318.webp</image:loc>
-			<image:caption><![CDATA[کفش زنانه کاشان]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://push.azkashan.ir/wp-content/uploads/kashan-kif-kafsh-03172306.webp</image:loc>
-			<image:caption><![CDATA[کیف زنانه کاشان]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://push.azkashan.ir/wp-content/uploads/kashan-kif-kafsh-03172016.webp</image:loc>
-			<image:caption><![CDATA[کیف زنانه کاشان]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://push.azkashan.ir/wp-content/uploads/kashan-kif-kafsh-03171952.webp</image:loc>
-			<image:caption><![CDATA[کفش زنانه کاشان]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://push.azkashan.ir/wp-content/uploads/kashan-kif-kafsh-03161652.webp</image:loc>
-			<image:caption><![CDATA[گیوه زنانه کاشان]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://push.azkashan.ir/wp-content/uploads/kashan-kif-kafsh-03161647.webp</image:loc>
-			<image:caption><![CDATA[کفش زنانه کاشان]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://push.azkashan.ir/wp-content/uploads/kashan-kif-kafsh-03161641.webp</image:loc>
-			<image:caption><![CDATA[صندل زنانه کاشان]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://push.azkashan.ir/wp-content/uploads/kashan-kif-kafsh-03161636.webp</image:loc>
-			<image:caption><![CDATA[کفش بچه گانه کاشان]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://push.azkashan.ir/wp-content/uploads/kashan-kif-kafsh-03161631.webp</image:loc>
-			<image:caption><![CDATA[کفش زنانه کاشان]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://push.azkashan.ir/wp-content/uploads/kashan-kif-kafsh-03161623.webp</image:loc>
-			<image:caption><![CDATA[کفش اسپرت کاشان]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://push.azkashan.ir/wp-content/uploads/kashan-kif-kafsh-03132005.webp</image:loc>
-			<image:caption><![CDATA[کفش بچه گانه کاشان]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://push.azkashan.ir/wp-content/uploads/kashan-kif-kafsh-03132003.webp</image:loc>
-			<image:caption><![CDATA[کفش بچه گانه کاشان]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://push.azkashan.ir/wp-content/uploads/kashan-kif-kafsh-03131959.webp</image:loc>
-			<image:caption><![CDATA[کیف مجلسی زنانه کاشان]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://push.azkashan.ir/wp-content/uploads/kashan-kif-kafsh-03131950.webp</image:loc>
-			<image:caption><![CDATA[کیف و کفش کاشان]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://push.azkashan.ir/wp-content/uploads/kashan-kif-kafsh-03121233.webp</image:loc>
-			<image:caption><![CDATA[گیوه زنانه کاشان]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://push.azkashan.ir/wp-content/uploads/kashan-kif-kafsh-03121028.webp</image:loc>
-			<image:caption><![CDATA[ست کیف روسری کاشان]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://push.azkashan.ir/wp-content/uploads/kashan-kif-kafsh-03121020.webp</image:loc>
-			<image:caption><![CDATA[کفش زنانه کاشان]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://push.azkashan.ir/wp-content/uploads/kashan-kif-kafsh-03101814.webp</image:loc>
-			<image:caption><![CDATA[کیف زنانه کاشان]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://push.azkashan.ir/wp-content/uploads/kashan-kif-kafsh-03101803.webp</image:loc>
-			<image:caption><![CDATA[کفش زنانه کاشان]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://push.azkashan.ir/wp-content/uploads/kashan-kif-kafsh-03101758.webp</image:loc>
-			<image:caption><![CDATA[کفش بچه گانه کاشان]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://push.azkashan.ir/wp-content/uploads/kashan-kif-kafsh-03101751.webp</image:loc>
-			<image:caption><![CDATA[کفش زنانه کاشان]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://push.azkashan.ir/wp-content/uploads/kashan-kif-kafsh-03082004.webp</image:loc>
-			<image:caption><![CDATA[کیف و کفش کاشان]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://push.azkashan.ir/wp-content/uploads/kashan-kif-kafsh-03081954.webp</image:loc>
-			<image:caption><![CDATA[کیف و کفش کاشان]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://push.azkashan.ir/wp-content/uploads/kashan-kif-kafsh-03081959.webp</image:loc>
-			<image:caption><![CDATA[کیف و کفش کاشان]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://push.azkashan.ir/wp-content/uploads/kashan-kif-kafsh-03082026.webp</image:loc>
-			<image:caption><![CDATA[کیف و کفش کاشان]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://push.azkashan.ir/wp-content/uploads/kashan-kif-kafsh-03082337.webp</image:loc>
-			<image:caption><![CDATA[کیف و کفش کاشان]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://push.azkashan.ir/wp-content/uploads/kashan-kif-kafsh-03082022.webp</image:loc>
-			<image:caption><![CDATA[کیف و کفش کاشان]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://push.azkashan.ir/wp-content/uploads/kashan-kif-kafsh-03082033.webp</image:loc>
-			<image:caption><![CDATA[کیف و کفش کاشان]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://push.azkashan.ir/wp-content/uploads/kashan-kif-kafsh-03082342.webp</image:loc>
-			<image:caption><![CDATA[کیف و کفش کاشان]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://push.azkashan.ir/wp-content/uploads/kashan-kif-kafsh-03082347.webp</image:loc>
-			<image:caption><![CDATA[کیف و کفش کاشان]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://push.azkashan.ir/wp-content/uploads/kashan-kif-kafsh-03082352.webp</image:loc>
-			<image:caption><![CDATA[کیف و کفش کاشان]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://push.azkashan.ir/wp-content/uploads/kashan-kif-kafsh-03082358.webp</image:loc>
-			<image:caption><![CDATA[کیف و کفش کاشان]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://push.azkashan.ir/wp-content/uploads/kashan-kif-kafsh-03090006.webp</image:loc>
-			<image:caption><![CDATA[کیف و کفش کاشان]]></image:caption>
 		</image:image>
 	</url>
 	<url>
@@ -606,6 +450,158 @@
 		<image:image>
 			<image:loc>https://push.azkashan.ir/wp-content/uploads/kashan-lebas-zananeh-03151219.webp</image:loc>
 			<image:caption><![CDATA[لباس راحتی زنانه کاشان - تاپ نخی]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://push.azkashan.ir/kif/</loc>
+		<lastmod>2021-06-12T07:52:07+00:00</lastmod>
+		<image:image>
+			<image:loc>https://push.azkashan.ir/wp-content/uploads/kashan-kif.webp</image:loc>
+			<image:caption><![CDATA[کیف کاشان]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://push.azkashan.ir/wp-content/uploads/kashan-kif.webp</image:loc>
+			<image:caption><![CDATA[کیف کاشان]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://push.azkashan.ir/wp-content/uploads/kashan-kif-kafsh-03172351.webp</image:loc>
+			<image:caption><![CDATA[کیف کاشان - کیف دستباف زنانه]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://push.azkashan.ir/wp-content/uploads/kashan-kif-kafsh-03172338.webp</image:loc>
+			<image:caption><![CDATA[کیف کاشان - کیف پاسپورتی زنانه]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://push.azkashan.ir/wp-content/uploads/kashan-kif-kafsh-03172306.webp</image:loc>
+			<image:caption><![CDATA[کیف کاشان - کیف زنانه اسپرت لش]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://push.azkashan.ir/wp-content/uploads/kashan-kif-kafsh-03172016.webp</image:loc>
+			<image:caption><![CDATA[کیف کاشان - کیف دستی زنانه]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://push.azkashan.ir/wp-content/uploads/kashan-kif-kafsh-03101814.webp</image:loc>
+			<image:caption><![CDATA[کیف کاشان - کیف زنانه اسپرت طرح سنگی]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://push.azkashan.ir/wp-content/uploads/kashan-kif-kafsh-03131959.webp</image:loc>
+			<image:caption><![CDATA[کیف کاشان - کیف زنانه مجلسی]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://push.azkashan.ir/wp-content/uploads/kashan-kif-kafsh-03121028.webp</image:loc>
+			<image:caption><![CDATA[کیف کاشان - ست کیف و روسری]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://push.azkashan.ir/wp-content/uploads/kashan-kif-kafsh-03082033.webp</image:loc>
+			<image:caption><![CDATA[کیف کاشان - کیف زنانه اسپرت مجلسی]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://push.azkashan.ir/wp-content/uploads/kashan-kif-kafsh-03090006.webp</image:loc>
+			<image:caption><![CDATA[کیف کاشان - کیف دستی زنانه]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://push.azkashan.ir/wp-content/uploads/kashan-kif-kafsh-03131950.webp</image:loc>
+			<image:caption><![CDATA[کیف کاشان - کیف بچه گانه سیلیکونی]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://push.azkashan.ir/kafsh/</loc>
+		<lastmod>2021-06-12T10:40:05+00:00</lastmod>
+		<image:image>
+			<image:loc>https://push.azkashan.ir/wp-content/uploads/kashan-kafsh.webp</image:loc>
+			<image:caption><![CDATA[کفش کاشان]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://push.azkashan.ir/wp-content/uploads/kashan-kafsh.webp</image:loc>
+			<image:caption><![CDATA[کفش کاشان]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://push.azkashan.ir/wp-content/uploads/kashan-kif-kafsh-03132005.webp</image:loc>
+			<image:caption><![CDATA[کفش کاشان - اسپرت بچه گانه]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://push.azkashan.ir/wp-content/uploads/kashan-kif-kafsh-03161652.webp</image:loc>
+			<image:caption><![CDATA[کفش کاشان - گیوه زنانه گلبهی]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://push.azkashan.ir/wp-content/uploads/kashan-kif-kafsh-03161647.webp</image:loc>
+			<image:caption><![CDATA[کفش کاشان - کالج زنانه]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://push.azkashan.ir/wp-content/uploads/kashan-kif-kafsh-03161623.webp</image:loc>
+			<image:caption><![CDATA[کفش کاشان - اسپرت زنانه]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://push.azkashan.ir/wp-content/uploads/kashan-kif-kafsh-03161636.webp</image:loc>
+			<image:caption><![CDATA[کفش کاشان - صندل بچه گانه]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://push.azkashan.ir/wp-content/uploads/kashan-kif-kafsh-03161631.webp</image:loc>
+			<image:caption><![CDATA[کفش کاشان - کفش طبی زنانه]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://push.azkashan.ir/wp-content/uploads/kashan-kif-kafsh-03132003.webp</image:loc>
+			<image:caption><![CDATA[کفش کاشان - کفش بچه گانه]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://push.azkashan.ir/wp-content/uploads/kashan-kif-kafsh-03171952.webp</image:loc>
+			<image:caption><![CDATA[کفش کاشان - صندل زنانه]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://push.azkashan.ir/wp-content/uploads/kashan-kif-kafsh-03121233.webp</image:loc>
+			<image:caption><![CDATA[کفش کاشان - گیوه زنانه]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://push.azkashan.ir/wp-content/uploads/kashan-kif-kafsh-03161641.webp</image:loc>
+			<image:caption><![CDATA[کفش کاشان - صندل زنانه]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://push.azkashan.ir/wp-content/uploads/kashan-kif-kafsh-03101803.webp</image:loc>
+			<image:caption><![CDATA[کفش کاشان - صندل زنانه لژ دار]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://push.azkashan.ir/wp-content/uploads/kashan-kif-kafsh-03121020.webp</image:loc>
+			<image:caption><![CDATA[کفش کاشان - صندل زنانه]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://push.azkashan.ir/wp-content/uploads/kashan-kif-kafsh-03101751.webp</image:loc>
+			<image:caption><![CDATA[کفش کاشان - صندل زنانه]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://push.azkashan.ir/wp-content/uploads/kashan-kif-kafsh-03082358.webp</image:loc>
+			<image:caption><![CDATA[کفش کاشان - صندل زنانه]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://push.azkashan.ir/wp-content/uploads/kashan-kif-kafsh-03082347.webp</image:loc>
+			<image:caption><![CDATA[کفش کاشان - کفش زنانه مجلسی]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://push.azkashan.ir/wp-content/uploads/kashan-kif-kafsh-03082352.webp</image:loc>
+			<image:caption><![CDATA[کفش کاشان - صندل زنانه]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://push.azkashan.ir/wp-content/uploads/kashan-kif-kafsh-03082342.webp</image:loc>
+			<image:caption><![CDATA[کفش کاشان - کفش اسپرت کتانی طبی]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://push.azkashan.ir/wp-content/uploads/kashan-kif-kafsh-03082337.webp</image:loc>
+			<image:caption><![CDATA[کفش کاشان - کفش صندل زنانه]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://push.azkashan.ir/wp-content/uploads/kashan-kif-kafsh-03082022.webp</image:loc>
+			<image:caption><![CDATA[کفش کاشان - کفش زنانه طبی]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://push.azkashan.ir/wp-content/uploads/kashan-kif-kafsh-03082004.webp</image:loc>
+			<image:caption><![CDATA[کفش کاشان - کفش زنانه صندل]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://push.azkashan.ir/wp-content/uploads/kashan-kif-kafsh-03081954.webp</image:loc>
+			<image:caption><![CDATA[کفش کاشان - کفش زنانه صندل]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://push.azkashan.ir/wp-content/uploads/kashan-kif-kafsh-03081959.webp</image:loc>
+			<image:caption><![CDATA[کفش کاشان - کفش زنانه صندل]]></image:caption>
 		</image:image>
 	</url>
 </urlset>
