@@ -305,30 +305,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://push.azkashan.ir/lebas-zananeh/</loc>
-		<lastmod>2021-06-12T11:40:29+00:00</lastmod>
-		<image:image>
-			<image:loc>https://push.azkashan.ir/wp-content/uploads/lebas-zananeh-kashan.webp</image:loc>
-			<image:caption><![CDATA[لباس زنانه کاشان]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://push.azkashan.ir/wp-content/uploads/lebas-zananeh-kashan.webp</image:loc>
-			<image:caption><![CDATA[لباس زنانه کاشان]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://push.azkashan.ir/wp-content/uploads/kashan-lebas-zananeh-03132204.webp</image:loc>
-			<image:caption><![CDATA[لباس مجلسی زنانه کاشان - تونیک مزونی]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://push.azkashan.ir/wp-content/uploads/kashan-roosari-03081615.webp</image:loc>
-			<image:caption><![CDATA[شال و روسری کاشان - روسری نخی]]></image:caption>
-		</image:image>
-		<image:image>
-			<image:loc>https://push.azkashan.ir/wp-content/uploads/kashan-lebas-zananeh-03151219.webp</image:loc>
-			<image:caption><![CDATA[لباس راحتی زنانه کاشان - تاپ نخی]]></image:caption>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://push.azkashan.ir/lebas-zananeh/manto/</loc>
 		<lastmod>2021-06-14T07:18:19+00:00</lastmod>
 		<image:image>
@@ -774,6 +750,30 @@
 		<image:image>
 			<image:loc>https://push.azkashan.ir/wp-content/uploads/kashan-kif-kafsh-03081959.webp</image:loc>
 			<image:caption><![CDATA[کفش کاشان - کفش زنانه صندل]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://push.azkashan.ir/lebas-zananeh/</loc>
+		<lastmod>2021-06-14T07:40:15+00:00</lastmod>
+		<image:image>
+			<image:loc>https://push.azkashan.ir/wp-content/uploads/lebas-zananeh-kashan.webp</image:loc>
+			<image:caption><![CDATA[لباس زنانه کاشان]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://push.azkashan.ir/wp-content/uploads/lebas-zananeh-kashan.webp</image:loc>
+			<image:caption><![CDATA[لباس زنانه کاشان]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://push.azkashan.ir/wp-content/uploads/kashan-lebas-zananeh-03240055.webp</image:loc>
+			<image:caption><![CDATA[لباس زنانه کاشان - مانتو الیاف]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://push.azkashan.ir/wp-content/uploads/kashan-roosari-03081615.webp</image:loc>
+			<image:caption><![CDATA[شال و روسری کاشان - روسری نخی]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://push.azkashan.ir/wp-content/uploads/kashan-lebas-zananeh-03151219.webp</image:loc>
+			<image:caption><![CDATA[لباس راحتی زنانه کاشان - تاپ نخی]]></image:caption>
 		</image:image>
 	</url>
 </urlset>
